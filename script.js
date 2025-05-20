@@ -1,0 +1,1 @@
+console.log("Wellness Tracker Ready!");
